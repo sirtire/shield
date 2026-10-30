@@ -95,9 +95,3 @@ We may update these Terms. When we do, we will revise the "Effective date" at th
 page and publish the current version at this address. Continued use of the Bot after changes
 means you accept the updated Terms.
 
-## 13. Contact
-
-For questions about these Terms, contact us at:
-
-- Discord: `[YOUR_DISCORD_OR_SUPPORT_SERVER]`
-- Email / GitHub: `[YOUR_CONTACT]`
