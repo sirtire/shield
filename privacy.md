@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** [DATE]
+**Effective date:** October 30, 2026
 
 This Privacy Policy explains how **Shield** ("the Bot", "we", "us") collects, uses, and protects
 data when you or your server use the Bot on Discord. By inviting or using the Bot, you agree to
